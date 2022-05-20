@@ -1,0 +1,8 @@
+.idea/*
+build/
+dist/
+*__pycache__*
+*.egg*
+*png
+*.log
+*/logs/*
