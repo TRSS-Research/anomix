@@ -117,14 +117,12 @@ TODO: Register on pypi
  
 
 ### Future improvements
-- standardize the _fit_ method a lil bit more
 - more anomaly prediction options 
-- tox
-- more full tests?
+- more tests and code coverage
 - more docs
 - travis yaml? (not sure who this is but i see it on many projects its useful haha)
-- maybe add \[smm] option to pip install, in case ppl dont want Students T MM
-    - pip install anomix\[em] maybe installs only the EM ones?  (aka non-cauchy, zeta, smm)
+- add \[smm] option to pip install, in case user does not want the Students T Mixture Model
+    - pip install anomix\[em] maybe installs only the EM ones?  (aka not the cauchy, zeta, smm)
 
 
 ### other potential methods of verifying the estimates:
