@@ -1,5 +1,7 @@
 import setuptools
-from src import __version__, __author__, __author_email__
+__version__ = '0.2.4'
+__author__ = 'andrew Follmann'
+__author_email__ = "follmann.andrew@gmail.com"
 
 with open("readme.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
