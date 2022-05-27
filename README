@@ -1,19 +1,5 @@
 # anomix 
 
-## Installation
-
-### Download from pypi and install using `pip`
-
-`pip install anomix`
-
-
-### Compile from source
-
-`git clone <this url>`
-
-`pip install . -e anomix` 
-
-
 ## What is it?
 
 __anomix__ is a python package for estimating, and simulating uni-variate mixture models.
@@ -107,6 +93,21 @@ plt.show()
 - Zeta/Zipf(*)
 
 (*) means non-EM based parameter estimation
+
+## Installation
+
+### Compile from source
+
+`git clone <this url>`
+
+`pip install . -e anomix` 
+
+
+### Download from pypi and install using `pip`
+
+`pip install anomix`
+
+TODO: Register on pypi
 
 
 ## Contributing

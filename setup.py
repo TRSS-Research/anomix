@@ -1,9 +1,9 @@
 import setuptools
-__version__ = '0.2.5'
+__version__ = '0.2.7'
 __author__ = 'andrew Follmann'
 __author_email__ = "follmann.andrew@gmail.com"
 
-with open("readme.md", "r", encoding="utf-8") as fh:
+with open("README", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 with open('requirements.txt', 'r') as fo:
