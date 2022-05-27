@@ -1,5 +1,5 @@
 import setuptools
-__version__ = '0.2.4'
+__version__ = '0.2.5'
 __author__ = 'andrew Follmann'
 __author_email__ = "follmann.andrew@gmail.com"
 
